@@ -1,0 +1,1 @@
+export {default as ColorWheelPicker} from './components/ColorWheelPicker';

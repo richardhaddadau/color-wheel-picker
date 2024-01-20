@@ -1,0 +1,12 @@
+# Source files
+src/
+tests/
+
+# Configuration files
+.babelrc
+.eslintrc.js
+tsconfig.json
+
+# Miscellaneous
+.gitignore
+README.md
